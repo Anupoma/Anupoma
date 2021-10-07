@@ -1,4 +1,3 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/imag...)]
 <h1 align="center">Hi 👋, I'm Anupoma</h1>
 <h3 align="center">I love to learn and I always want to explore different things</h3>
 
