@@ -28,8 +28,8 @@
 
 ## 📊 My Github Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupoma&show_icons=true&locale=en&layout=compact" alt="anupoma" /></p>
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupoma&show_icons=true&locale=en&layout=compact" alt="anupoma Top Languages" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=anupoma&show_icons=true&locale=en" alt="anupoma Github Stats" /></p>
 
 
 
