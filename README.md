@@ -6,7 +6,6 @@
 <a href="#"><img align="right" width="500" height="auto" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" height="175px"/></a>
 
 - 🌱 I’m currently learning **Object Oriented Programming in JAVA**
-- 
 
 - 📫 How to reach me **anupomadastoma@gmail.com**
 
