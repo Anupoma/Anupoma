@@ -5,6 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupoma&label=Profile%20views&color=0e75b6&style=flat" alt="anupoma" /> </p>
 <a href="#"><img align="right" width="500" height="auto" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" height="175px"/></a>
 
+- 🌱 I’m currently learning **Object Oriented Programming in JAVA**
+- 
+
 - 📫 How to reach me **anupomadastoma@gmail.com**
 
 - ⚡ Fun fact **I think I am funny XD**
