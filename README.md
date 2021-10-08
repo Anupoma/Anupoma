@@ -32,7 +32,10 @@
 
 
 ## 📊 My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupoma&theme=onedark)
+  <br/>
+    <a href="https://github.com/Anupoma/github-readme-stats"><img alt="Anupoma's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Anupoma&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/Anupoma/github-readme-stats"><img alt="Anupoma's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anupoma&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupoma&show_icons=true&locale=en&layout=compact" alt="anupoma Top Languages" /></p>
