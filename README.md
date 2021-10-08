@@ -21,7 +21,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anupoma&" alt="anupoma" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupoma&show_icons=true&locale=en&layout=compact" alt="anupoma" /></p>
-
+## 📊 My Github Stats
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anupoma&show_icons=true&locale=en" alt="anupoma" /></p>
 
 
