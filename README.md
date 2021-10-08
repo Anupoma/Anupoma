@@ -1,4 +1,4 @@
-<a href="#"><img align="center" width="700" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="175px"/></a>
+<a href="#"><img align="right" width="700" height="auto" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" height="175px"/></a>
 <h1 align="center">Hi 👋, I'm Anupoma</h1>
 <h3 align="center">I love to learn and I always want to explore different things</h3>
 
