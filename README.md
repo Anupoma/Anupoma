@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
+<img align="center" alt="Coding" width="500" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" />
 <h1 align="center">Hi 👋, I'm Anupoma</h1>
 <h3 align="center">I love to learn and I always want to explore different things</h3>
 
