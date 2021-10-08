@@ -32,7 +32,7 @@
 
 
 ## 📊 My Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupoma&theme=Dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anupoma&theme=dark)
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anupoma&show_icons=true&locale=en&layout=compact" alt="anupoma Top Languages" /></p>
