@@ -1,4 +1,4 @@
-<a href="#"><img align="center" width="500" height="auto" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" height="175px"/></a>
+
 <h1 align="center">Hi 👋, I'm Anupoma</h1>
 <h3 align="center">I love to learn and I always want to explore different things</h3>
 
