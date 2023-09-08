@@ -2,8 +2,7 @@
 <h1 align="center">Hi 👋, I'm Anupoma</h1>
 <h3 align="center">I love to learn and I always want to explore different things</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupoma&label=Profile%20views&color=0e75b6&style=flat" alt="anupoma" /> </p>
-<a href="#"><img align="right" width="400" height="auto" src="https://raw.githubusercontent.com/arsentieva/arsentieva/main/code.gif" height="175px"/></a>
+
 
 - 📫 How to reach me **anupomadastoma@gmail.com**
 
