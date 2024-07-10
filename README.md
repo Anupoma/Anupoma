@@ -10,8 +10,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/anupoma angasree toma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anupoma angasree toma" height="30" width="40" /></a>
-<a href="https://instagram.com/anu_poma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anu_poma" height="30" width="40" /></a>
+<a href="[https://fb.com/anupoma angasree toma](https://www.linkedin.com/in/anupoma-toma-95a510230/)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg](https://img.icons8.com/?size=100&id=13930&format=png&color=000000)" alt="anupoma angasree toma" height="30" width="40" /></a>
+
 <a href="https://www.codechef.com/users/anupomatoma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="anupomatoma" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/anupomadstoma" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="anupomadstoma" height="30" width="40" /></a>
 </p>
